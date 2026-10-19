@@ -72,8 +72,6 @@ Cart2Insights/
 ├── requirements.txt
 └── README.md
 
-Change the folder names above to match your real project folders.
-
 How to Run
 
 1. Clone the repository
@@ -108,5 +106,5 @@ Writing SQL from basic queries to CTEs and window functions
 Connecting SQL, Python, and Streamlit in one workflow
 Using statistical tests to support business conclusions
 
-Author
-<Sowrinayagam> LinkedIn | GitHub
+
+Sowrinayagam LinkedIn | GitHub
