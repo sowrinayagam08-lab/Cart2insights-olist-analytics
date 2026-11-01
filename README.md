@@ -276,40 +276,23 @@ Cart2Insights/
 │   └── Cleaned CSV datasets
 │
 ├── notebooks/
-│   └── Cart2Insights.ipynb
+│   └── data_understanding_quality_cleaning.ipynb
+│   └── sql_analysis.ipynb
+│   └── feature_engineering.ipynb
+│   └── eda.ipynb
+│   └── statistical_analysis.ipynb
 │
 ├── sql/
-│   └── Database and SQL analysis scripts
+│   └── Cart2Insights.sql
 │
-├── dashboard/
+├── streamlit/
 │   └── app.py
-│
-├── images/
-│   └── er_diagram.png
-│
-├── screenshots/
-│   └── Dashboard screenshots
-│
-├── requirements.txt
-│
-└── README.md
+│   └── database.py
+│   └── queries.py
+│   └── requirements.txt
+│   └── utils.py
+│   
 ```
-
-*Adjust the folder names in this structure if your actual GitHub repository uses a different organization.*
-
----
-
-## ⚙️ How to Run the Project
-
-### Prerequisites
-
-Make sure you have installed:
-
-- Python 3.10 or later
-- MySQL 8.0 or later
-- MySQL Workbench
-- Jupyter Notebook
-- VS Code (optional)
 
 ### Step 1: Clone the Repository
 
@@ -396,8 +379,8 @@ This project represents my hands-on learning journey in Data Analytics, where I 
 
 ### Connect With Me
 
-- 💼 LinkedIn: [Connect with me](YOUR_LINKEDIN_URL)
-- 🐙 GitHub: [Explore my repositories](YOUR_GITHUB_URL)
+- 💼 LinkedIn: [Connect with me](www.linkedin.com/in/sowrinayagam-s-53224a2b5)
+- 🐙 GitHub: [Explore my repositories](https://github.com/sowrinayagam08-lab/Cart2insights-olist-analytics.git)
 
 ---
 
