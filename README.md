@@ -264,30 +264,6 @@ The dashboard provides a business-focused overview of e-commerce performance thr
 
 ---
 
-## 📸 Dashboard Preview
-
-> Add your actual dashboard screenshots inside the `screenshots/` folder and display them below.
-
-### Business_Overview
-![Business_Overview](C:/Screenshots/Business_Overview.png)
-
-### Sales Analysis
-![Sales Analysis](screenshots/sales_analysis.png)
-
-### Customer Analysis
-![Customer Analysis](screenshots/customer_analysis.png)
-
-### Seller & Product Analysis
-![Seller and Product Analysis](screenshots/seller_product_analysis.png)
-
-### Delivery Analysis
-![Delivery Analysis](screenshots/delivery_analysis.png)
-
-### Customer Experience
-![Customer Experience](screenshots/customer_experience.png)
-
----
-
 ## 📁 Project Structure
 
 ```text
@@ -352,7 +328,7 @@ pip install -r requirements.txt
 ### Step 3: Set Up MySQL Database
 
 1. Open MySQL Workbench.
-2. Start your MySQL connection.
+2. Start my MySQL connection.
 3. Run the SQL scripts to create the database and tables.
 4. Ensure the cleaned CSV datasets are available in the expected data folder.
 5. Load the datasets into their respective tables.
