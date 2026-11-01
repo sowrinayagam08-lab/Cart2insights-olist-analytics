@@ -268,7 +268,7 @@ The dashboard provides a business-focused overview of e-commerce performance thr
 
 > Add your actual dashboard screenshots inside the `screenshots/` folder and display them below.
 
-### Business Overview
+### Business_Overview
 ![Business_Overview](C:/Screenshots/Business_Overview.png)
 
 ### Sales Analysis
