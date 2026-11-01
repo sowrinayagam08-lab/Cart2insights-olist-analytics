@@ -379,7 +379,7 @@ This project represents my hands-on learning journey in Data Analytics, where I 
 
 ### Connect With Me
 
-- 💼 LinkedIn: [Connect with me](www.linkedin.com/in/sowrinayagam-s-53224a2b5)
+- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/sowrinayagam-s-53224a2b5)
 - 🐙 GitHub: [Explore my repositories](https://github.com/sowrinayagam08-lab/Cart2insights-olist-analytics.git)
 
 ---
