@@ -314,7 +314,7 @@ Make sure you have installed:
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/cart2insights-olist-analytics.git
+git clone [https://github.com/sowrinayagam08-lab/Cart2insights-olist-analytics.git]
 
 cd cart2insights-olist-analytics
 ```
@@ -336,16 +336,14 @@ pip install -r requirements.txt
 
 ### Step 4: Configure Database Connection
 
-Update your MySQL credentials in the notebook and dashboard application.
+Update my MySQL credentials in the notebook and dashboard application.
 
 ```python
 DB_HOST = "localhost"
 DB_USER = "root"
-DB_PASSWORD = "your_password"
+DB_PASSWORD = "Arul@***"
 DB_NAME = "cart2insights"
 ```
-
-**Note:** Use your actual database credentials. Avoid uploading passwords or other sensitive information to GitHub.
 
 ### Step 5: Run the Jupyter Notebook
 
@@ -359,7 +357,7 @@ Navigate to the folder containing `app.py` and execute:
 streamlit run app.py
 ```
 
-The dashboard will open in your browser.
+The dashboard will open in my browser.
 
 ---
 
