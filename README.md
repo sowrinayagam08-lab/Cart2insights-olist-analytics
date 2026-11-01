@@ -269,7 +269,7 @@ The dashboard provides a business-focused overview of e-commerce performance thr
 > Add your actual dashboard screenshots inside the `screenshots/` folder and display them below.
 
 ### Business Overview
-![Business Overview](C:/Users/sowri/OneDrive/Desktop/AIML/Project/Cart2Insights/data/Screenshots/Business_Overview.png)
+![Business Overview]("C:/Users/sowri/OneDrive/Desktop/AIML/Project/Cart2Insights/data/Screenshots/Business_Overview.png")
 
 ### Sales Analysis
 ![Sales Analysis](screenshots/sales_analysis.png)
