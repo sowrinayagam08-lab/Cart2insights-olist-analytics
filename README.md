@@ -373,9 +373,9 @@ Through this project, I gained practical experience in:
 
 **Sowrinayagam**
 
-Aspiring Data Analyst | AI & ML Learner
+AI & ML Learner
 
-This project represents my hands-on learning journey in Data Analytics, where I explored how raw data can be transformed into meaningful business insights using SQL, Python, statistics, and data visualization.
+This project represents my hands-on learning journey in AI & ML, where I explored how raw data can be transformed into meaningful business insights using SQL, Python, statistics, and data visualization.
 
 ### Connect With Me
 
