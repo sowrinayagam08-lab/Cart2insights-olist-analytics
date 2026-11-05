@@ -206,7 +206,7 @@ ALTER TABLE order_items    ADD PRIMARY KEY (order_id, order_item_id);
 ALTER TABLE order_payments ADD PRIMARY KEY (order_id, payment_sequential);
 ALTER TABLE order_reviews  ADD PRIMARY KEY (review_id, order_id);
 
-# Foreign keys. All of these pass on your data (0 orphan rows).
+# Foreign keys. All of these pass on my data (0 orphan rows).
 
 ALTER TABLE orders
   ADD CONSTRAINT fk_orders_customer
@@ -300,7 +300,7 @@ Step 1: Define the hypotheses
 Group 1 (On Time): delivered on or before the estimated delivery date
 Group 2 (Delayed): delivered after the estimated delivery date
 H₀: mean review score (Delayed) = mean review score (On Time)
-H₁: mean review score (Delayed) < mean review score (On Time) (one-tailed, because your question asks about lower scores)
+H₁: mean review score (Delayed) < mean review score (On Time) (one-tailed, because my question asks about lower scores)
 Significance level: α = 0.05
 
 Step 2: Define “delayed” and filter the data
