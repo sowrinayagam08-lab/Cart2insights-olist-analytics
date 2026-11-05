@@ -285,6 +285,11 @@ Cart2Insights/
 ├── sql/
 │   └── Cart2Insights.sql
 │
+├── ER Diagram.png
+│
+├── screenshots/
+│   └── Dashboard screenshots
+│
 ├── streamlit/
 │   └── app.py
 │   └── database.py
