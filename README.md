@@ -134,6 +134,20 @@ The project follows a structured data analytics pipeline:
 - Checked primary key uniqueness and data consistency.
 - Prepared cleaned datasets for database loading.
 
+## 📂 Dataset Access
+
+The Olist project contains 9 raw datasets and
+9 cleaned datasets.
+
+Due to GitHub file-size limitations, datasets
+are hosted externally.
+
+- 📥 [Raw Datasets](https://drive.google.com/drive/folders/18x_PMUgbUBcxrD4pA8VSRsOJ6JpAVE97?usp=drive_link)
+- 📥 [Cleaned Datasets](https://drive.google.com/drive/folders/1sJwh1FDxx_YFRmdEu2midGN-CcIEtyqu?usp=drive_link)
+
+All datasets are used for data cleaning,
+preprocessing, MySQL integration, and analysis.
+
 ### 2️⃣ Database Design & Management
 
 Designed a relational MySQL database to organize the cleaned e-commerce datasets.
