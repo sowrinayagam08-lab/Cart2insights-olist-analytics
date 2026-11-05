@@ -324,7 +324,7 @@ Update my MySQL credentials in the notebook and dashboard application.
 ```python
 DB_HOST = "localhost"
 DB_USER = "root"
-DB_PASSWORD = "Arul@***"
+DB_PASSWORD = "*******"
 DB_NAME = "cart2insights"
 ```
 
