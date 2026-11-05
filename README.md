@@ -263,27 +263,25 @@ The dashboard provides a business-focused overview of e-commerce performance thr
 - MySQL database integration.
 
 ---
-📸 Dashboard Preview
-
-Add your actual dashboard screenshots inside the screenshots/ folder and display them below.
+## 📸 Dashboard Preview
 
 ### Business Overview
-![Business Overview](screenshots/Business Overview.png)
+![Business Overview](screenshots/Bussiness_Overview.png)
 
 ### Sales Analysis
-![Sales Analysis](screenshots/Sales Analysis.png)
+![Sales Analysis](screenshots/Sales%20Analysis.png)
 
 ### Customer Analysis
-![Customer Analysis](screenshots/Customer Analysis.png)
-
-### Seller & Product Analysis
-![Seller & Product Analysis](screenshots/Seller & Product Analysis.png)
-
-### Delivery Analysis
-![Delivery Analysis](screenshots/Delivery Analysis.png)
+![Customer Analysis](screenshots/Customer%20Analysis.png)
 
 ### Customer Experience
-![Customer Experience](screenshots/Customer Experience.png)
+![Customer Experience](screenshots/Customer%20Experience.png)
+
+### Delivery Analysis
+![Delivery Analysis](screenshots/Delivery%20Analysis.png)
+
+### Seller & Product Analysis
+![Seller & Product Analysis](screenshots/Seller%20%26%20Product%20Analysis.png)
 
 ---
 
